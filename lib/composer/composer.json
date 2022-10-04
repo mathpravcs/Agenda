@@ -1,0 +1,16 @@
+{
+    "name": "wef/calendar",
+    "description": "Calendario Agenda de Eventos em PHP.",
+    "authors": [
+        {
+            "name": "Matheus Basilio"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}
